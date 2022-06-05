@@ -65,6 +65,10 @@
     cursor: pointer;
     
 }
+.controls button:hover{
+    color: white;
+    background: black;
+}
 .restart{
     background-color: #498AFB;
 }
